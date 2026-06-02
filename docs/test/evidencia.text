@@ -1,0 +1,396 @@
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+(Debes seleccionar un sorteo primero)
+
+0. Salir
+========================================
+Elige una opcion: 1
+
+--- REGISTRAR NUEVO SORTEO ---
+Nombre del sorteo: S 
+Descripcion: d
+Presupuesto: 200
+Ano: 2000
+Mes (1-12): 2
+Dia: 1
+Fecha del sorteo: 2000-02-01
+Sorteo creado exitosamente.
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+(Debes seleccionar un sorteo primero)
+
+0. Salir
+========================================
+Elige una opcion: 2
+
+--- MODIFICAR SORTEO ---
+
+--- SORTEOS DISPONIBLES ---
+[1] S - Estado: CREATED
+--------------------------
+
+Selecciona el numero del sorteo: 1
+Nuevo nombre: saa
+Nueva descripcion: saa
+Nuevo presupuesto: 222
+Fecha del sorteo: null
+Sorteo creado exitosamente.
+Sorteo actualizado correctamente
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+(Debes seleccionar un sorteo primero)
+
+0. Salir
+========================================
+Elige una opcion: 3
+
+--- CLONAR SORTEO ---
+
+--- SORTEOS DISPONIBLES ---
+[1] saa - Estado: CREATED
+--------------------------
+
+Selecciona el numero del sorteo a clonar: 1
+Nuevo nombre para el sorteo clonado: papa
+Sorteo clonado exitosamente
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+(Debes seleccionar un sorteo primero)
+
+0. Salir
+========================================
+Elige una opcion: 4
+
+--- SORTEOS DISPONIBLES ---
+[1] saa - Estado: CREATED
+--------------------------
+
+Selecciona el numero del sorteo: 1
+Sorteo 'saa' seleccionado.
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 5
+
+--- AGREGAR PARTICIPANTES ---
+Cuantos participantes deseas agregar? 4
+
+Participante 1:
+  Email: sam@gg
+  Nombre: ss
+El participante con el email:sam@gg fue creado exitosamente
+
+Participante 2:
+  Email: sal@gg
+  Nombre: sal
+El participante con el email:sal@gg fue creado exitosamente
+
+Participante 3:
+  Email: ss@gg
+  Nombre: sp
+El participante con el email:ss@gg fue creado exitosamente
+
+Participante 4:
+  Email: ro@gg
+  Nombre: soo
+El participante con el email:ro@gg fue creado exitosamente
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 6
+
+--- MODIFICAR PARTICIPANTE ---
+
+--- PARTICIPANTES ---
+[0] ss - sam@gg
+[1] sal - sal@gg
+[2] sp - ss@gg
+[3] soo - ro@gg
+---------------------
+
+Selecciona el numero del participante: 0
+Participante no valido
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 5
+
+--- AGREGAR PARTICIPANTES ---
+Cuantos participantes deseas agregar? 0
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 6
+
+--- MODIFICAR PARTICIPANTE ---
+
+--- PARTICIPANTES ---
+[0] ss - sam@gg
+[1] sal - sal@gg
+[2] sp - ss@gg
+[3] soo - ro@gg
+---------------------
+
+Selecciona el numero del participante: 1
+Nuevo email: ss@@
+Nuevo nombre: sssss
+Ya existe un particpante con ese email no se puede modificar
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 9
+
+Ejecutando sorteo 'saa'...
+--- AMIGO SECRETO ---
+ss -> sssss
+sssss -> sp
+sp -> soo
+soo -> ss
+Sorteo ejecutado.
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 11
+
+--- ESTADO DEL SORTEO ---
+Nombre: saa
+Descripcion: saa
+Presupuesto: 222.0
+Fecha: null
+Estado: DRAWN
+
+Asignaciones:
+  ss -> sssss
+  sssss -> sp
+  sp -> soo
+  soo -> ss
+
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+--- SORTEO ACTUAL: saa ---
+
+OPCIONES DE PARTICIPANTES:
+5. Agregar participante
+6. Modificar participante
+7. Eliminar participante
+
+OPCIONES DE SORTEO:
+8. Agregar restriccion
+9. Ejecutar sorteo
+10. Cancelar sorteo
+11. Ver estado del sorteo
+12. Volver al menu principal
+
+0. Salir
+========================================
+Elige una opcion: 12
+
+========================================
+     SISTEMA DE SORTEO AMIGO SECRETO
+========================================
+
+OPCIONES PRINCIPALES:
+1. Registrar nuevo sorteo
+2. Modificar sorteo
+3. Clonar sorteo
+4. Seleccionar sorteo(Habilita Opciones Participantes,Opciones sorteo)
+
+(Debes seleccionar un sorteo primero)
+
+0. Salir
