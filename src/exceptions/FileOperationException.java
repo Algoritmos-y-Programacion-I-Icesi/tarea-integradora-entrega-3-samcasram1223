@@ -5,7 +5,7 @@ package exceptions;
  * o escritura de archivos (importacion de participantes, exportacion de lista
  * de deseos, guardado o carga del estado del sistema).
  *
- * @author Samuel Castro
+ * 
  */
 public class FileOperationException extends Exception {
 

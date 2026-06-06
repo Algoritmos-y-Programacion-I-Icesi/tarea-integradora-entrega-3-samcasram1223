@@ -4,7 +4,7 @@ package model;
  * Clase que representa una experiencia o actividad en la lista de deseos.
  * Extiende WishListItem con atributos especificos de experiencias.
  *
- * 
+ *
  */
 public class ExperienceItem extends WishListItem {
 
