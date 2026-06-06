@@ -31,26 +31,56 @@ public class AccessoryItem extends WishListItem {
         this.material = material;
     }
 
+    /**
+     * Retorna el tipo del accesorio.
+     *
+     * @return tipo del accesorio.
+     */
     public String getType() {
         return type;
     }
 
+    /**
+     * Establece el tipo del accesorio.
+     *
+     * @param type tipo del accesorio.
+     */
     public void setType(String type) {
         this.type = type;
     }
 
+    /**
+     * Retorna la marca del accesorio.
+     *
+     * @return marca del accesorio.
+     */
     public String getBrand() {
         return brand;
     }
 
+    /**
+     * Establece la marca del accesorio.
+     *
+     * @param brand marca del accesorio.
+     */
     public void setBrand(String brand) {
         this.brand = brand;
     }
 
+    /**
+     * Retorna el material del accesorio.
+     *
+     * @return material del accesorio.
+     */
     public String getMaterial() {
         return material;
     }
 
+    /**
+     * Establece el material del accesorio.
+     *
+     * @param material material del accesorio.
+     */
     public void setMaterial(String material) {
         this.material = material;
     }

@@ -654,18 +654,38 @@ public class SecretLottery implements Serializable {
 
     // ========================== GETTERS Y SETTERS ==========================
 
+    /**
+     * Retorna la lista de sorteos registrados en el sistema.
+     *
+     * @return lista de sorteos.
+     */
     public ArrayList<Lottery> getLotterys() {
         return this.lotterys;
     }
 
+    /**
+     * Establece la lista de sorteos registrados en el sistema.
+     *
+     * @param lotterys lista de sorteos.
+     */
     public void setLotterys(ArrayList<Lottery> lotterys) {
         this.lotterys = lotterys;
     }
 
+    /**
+     * Retorna el sorteo actualmente seleccionado para operar.
+     *
+     * @return sorteo seleccionado.
+     */
     public Lottery getSelectLottery() {
         return this.selectLottery;
     }
 
+    /**
+     * Establece el sorteo actualmente seleccionado para operar.
+     *
+     * @param selectLottery sorteo seleccionado.
+     */
     public void setSelectLottery(Lottery selectLottery) {
         this.selectLottery = selectLottery;
     }

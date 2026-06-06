@@ -38,34 +38,74 @@ public class Participant implements Serializable {
         this.wishList = new ArrayList<>();
     }
 
+    /**
+     * Retorna el identificador numerico del participante.
+     *
+     * @return identificador del participante.
+     */
     public int getId() {
         return this.id;
     }
 
+    /**
+     * Establece el identificador numerico del participante.
+     *
+     * @param id identificador del participante.
+     */
     public void setId(int id) {
         this.id = id;
     }
 
+    /**
+     * Retorna el correo electronico del participante.
+     *
+     * @return correo electronico.
+     */
     public String getEmail() {
         return this.email;
     }
 
+    /**
+     * Establece el correo electronico del participante.
+     *
+     * @param email correo electronico.
+     */
     public void setEmail(String email) {
         this.email = email;
     }
 
+    /**
+     * Retorna el nombre del participante.
+     *
+     * @return nombre del participante.
+     */
     public String getName() {
         return this.name;
     }
 
+    /**
+     * Establece el nombre del participante.
+     *
+     * @param name nombre del participante.
+     */
     public void setName(String name) {
         this.name = name;
     }
 
+    /**
+     * Retorna el amigo secreto asignado al participante.
+     *
+     * @return participante asignado como amigo secreto.
+     */
     public Participant getSecretFriend() {
         return this.secretFriend;
     }
 
+    /**
+     * Establece el amigo secreto asignado al participante.
+     *
+     * @param secretFriend participante asignado como amigo secreto.
+     */
     public void setSecretFriend(Participant secretFriend) {
         this.secretFriend = secretFriend;
     }
